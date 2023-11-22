@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "app.tableName",
+    "type": "java.lang.String",
+    "description": "A description for 'app.tableName'"
+  },
+  {
+    "name": "app.tableName",
+    "type": "java.lang.String",
+    "description": "A description for 'app.tableName'"
+  },
+  {
+    "name": "table.name",
+    "type": "java.lang.String",
+    "description": "A description for 'table.name'"
+  }
+]}
